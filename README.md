@@ -1,1 +1,1 @@
-# digital-clock-python-PyQt5
+# Usage: python3 dgtclock.py 
